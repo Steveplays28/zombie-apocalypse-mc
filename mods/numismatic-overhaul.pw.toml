@@ -1,0 +1,13 @@
+name = "Numismatic Overhaul"
+filename = "numismatic-overhaul-0.2.9+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXm8hVxN/versions/W8o5cKwW/numismatic-overhaul-0.2.9%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "6fc1061b114c5a81346ca995b29d9452c9f28305"
+
+[update]
+[update.modrinth]
+mod-id = "ZXm8hVxN"
+version = "W8o5cKwW"

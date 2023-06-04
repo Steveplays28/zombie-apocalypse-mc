@@ -1,0 +1,13 @@
+name = "Architecture Extensions"
+filename = "architecture_extensions-2.1.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YyhsabMU/versions/NvDsCpJD/architecture_extensions-2.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "e1e12dcbdb5a3ee3a10f2287b81036ff927eba70"
+
+[update]
+[update.modrinth]
+mod-id = "YyhsabMU"
+version = "NvDsCpJD"

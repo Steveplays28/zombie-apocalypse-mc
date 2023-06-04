@@ -1,0 +1,18 @@
+{
+  "enableDoubleJump": false,
+  "enableDash": false,
+  "enableLedgeGrab": true,
+  "enableAirDash": false,
+  "sneakDisablesFeatures": false,
+  "timeDelayDash": 400,
+  "timeCooldownDash": 1300,
+  "minimumVerticalVelocity": 0.4,
+  "fixedJumpBoost": 0.4,
+  "dashSpeed": 1.7,
+  "inAirDashSpeed": 1.3,
+  "ledgeGrabRange": 1,
+  "ledgeGrabHeightPerBlock": 0.2,
+  "slideHitBoxOffsetY": -0.6,
+  "slideEyeHeight": 0.7,
+  "slideHitBoxContractY": 0.7
+}

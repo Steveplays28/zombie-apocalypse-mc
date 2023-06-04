@@ -1,0 +1,13 @@
+name = "Armour Weight"
+filename = "Armour Weight 1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j4OnTuyf/versions/hetAoajJ/Armour%20Weight%201.4.jar"
+hash-format = "sha1"
+hash = "4b2a1a7e33e3dbe536dc420feea26efda0a8dbc4"
+
+[update]
+[update.modrinth]
+mod-id = "j4OnTuyf"
+version = "hetAoajJ"

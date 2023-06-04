@@ -1,0 +1,16 @@
+name = "Immersion Pack"
+author = "Steveplays28"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "88c45eec9f6f1bf405bd69e7e7f4f94b564fecc5a4edd819b5d146550671e2c4"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.19.0-beta.13"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.4"]

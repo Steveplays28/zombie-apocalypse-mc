@@ -1,0 +1,13 @@
+name = "Fabric Seasons: Extras"
+filename = "fabric-seasons-extras-1.1-BETA+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/64FYdx5z/versions/3zXY1Mv9/fabric-seasons-extras-1.1-BETA%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "025ffc61ed97dd86208413cc1c8cae1ca09b758b"
+
+[update]
+[update.modrinth]
+mod-id = "64FYdx5z"
+version = "3zXY1Mv9"

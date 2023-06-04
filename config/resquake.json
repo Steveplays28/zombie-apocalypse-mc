@@ -1,0 +1,6 @@
+{
+    "sharkingEnabled": false,
+    "uncappedBunnyhop": false,
+    "softCapThreshold": 2.5,
+    "hardCapThreshold": 2.5
+}

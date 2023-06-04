@@ -1,0 +1,13 @@
+name = "Grappling Hook :: Restitched"
+filename = "grapplemod-1.19.4-v1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f4hp6FTb/versions/VHGNAncT/grapplemod-1.19.4-v1.5.jar"
+hash-format = "sha1"
+hash = "2eeb96473f6ca0fd276879aedc4d8bcfad93169d"
+
+[update]
+[update.modrinth]
+mod-id = "f4hp6FTb"
+version = "VHGNAncT"
