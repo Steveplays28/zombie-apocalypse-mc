@@ -20,14 +20,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  orientation = bottom-left
-  x = 2
-  action = movebutton
-  y = -24
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -308
@@ -36,8 +28,32 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -308
+  action = movebutton
+  y = 95
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -24
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -308
+  action = movebutton
+  y = 49
 }
 
 customization {
@@ -59,22 +75,6 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -308
-  action = movebutton
-  y = 49
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -308
-  action = movebutton
-  y = 95
 }
 
 customization {
@@ -121,5 +121,10 @@ customization {
   actionid = 0cca46ea-158e-4df1-9310-fc2edfbb61f81683755996447
   y = 0
   height = 30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
 }
 

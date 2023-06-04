@@ -1,4 +1,4 @@
-name = "Immersion Pack"
+name = "Steve's Zombie Apocalypse"
 author = "Steveplays28"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "88c45eec9f6f1bf405bd69e7e7f4f94b564fecc5a4edd819b5d146550671e2c4"
+hash = "5fdd61015e673c8b9ff06c3a7d5a3fb149dac9987c666518130abf5a9bd21ac2"
 
 [versions]
 minecraft = "1.19.4"

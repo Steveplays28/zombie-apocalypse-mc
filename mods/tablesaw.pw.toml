@@ -1,0 +1,13 @@
+name = "Tablesaw"
+filename = "tablesaw-1.5.0+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EPt60DPT/versions/G25Vm5dr/tablesaw-1.5.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "2b25816850a1fd728fc9f20f45406676b7a82504"
+
+[update]
+[update.modrinth]
+mod-id = "EPt60DPT"
+version = "G25Vm5dr"

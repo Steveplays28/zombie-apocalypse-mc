@@ -3,7 +3,7 @@
     "enabled": true,
     "classic": false,
     "clipToSpace": true,
-    "dynamicCrosshair": true,
+    "dynamicCrosshair": false,
     "renderModel": true,
     "adjustStep": 0.25,
     "scale": 1.0

@@ -114,7 +114,7 @@ hash = "3f3f0e9a467636a34fb958601323e583ef344a1108fdbb3ce45a61dfb79255ca"
 
 [[files]]
 file = "config/realcamera.json"
-hash = "5ea4917c04875fad9456f49e259c5bf4e9f8127c01a51d2ec6f8e8577c2cac95"
+hash = "8a29f85e676613c2e7d185ecc9a551f8689188d379213e898a65a8ecb48749bc"
 
 [[files]]
 file = "config/resquake.json"
@@ -230,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7384ef578e115daa3b1abbd9c593075239eba067d74d8d7817dee17a7d95cc61"
 metafile = true
 
 [[files]]
@@ -407,6 +412,11 @@ hash = "266f703fec64430450f484b4e65216baf9094fc4a0ce5e62fdd4aff21ad8679e"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "e1abd8f601110624a6e3f6dd02c8fe7adf1eb5dff3e47a42e925440cdfcb15e5"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 hash = "b3e544dddc8df8de607894543ec65e3e1c65106b8b1bbb5a3ac9e6799275d573"
 metafile = true
@@ -429,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "48942049da4b13d01d60ede0f153ea9ed1e55317e5ab65423eab316b77dd243f"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "cf1d46371026be4769199d374296e584513b0842e4b9e476c3f65bf02ec057c3"
 metafile = true
 
 [[files]]
@@ -492,6 +507,11 @@ hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "51eba3ae0c0d623e7914d6d909e40f6224df7703c541eefdd1f003a4fc501f54"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
@@ -527,6 +547,11 @@ hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "0a2ddf129d944dc3f67cb2e507d64e487f6445b6cea6ea1a15ab9f443c0fd457"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "4b7559b41c1461e9e113fb6172c8994ac5a4c935c4989d30908dc77436de1b45"
 metafile = true
@@ -539,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+metafile = true
+
+[[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "afae97e455506516e6d196935777d3cd1b733f8f36505cfc3491c69300cbb511"
 metafile = true
 
 [[files]]
@@ -593,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/realisticsleep.pw.toml"
 hash = "5b6d8b48d669b75919b47f5c6fe138d64df5f805b7e0b948969cac9bb487e1bb"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "64a8aa1d9d5ce3a202e3dea0eeaefbf1a229a99b5cf90c4d319484d7d861fbd6"
 metafile = true
 
 [[files]]
@@ -683,6 +718,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tablesaw.pw.toml"
+hash = "f594f5ff3746bd7223d6c5bce884b3614b4eb5c25d8e5d89f6db50f51f30a4da"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "6979b981f8b46f27c93d5b5250508f4145b3bb5ab1181071381aa134b2a0db59"
 metafile = true
 
 [[files]]
