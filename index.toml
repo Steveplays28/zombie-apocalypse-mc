@@ -54,15 +54,15 @@ hash = "bc660ca6c07073afb8648fca08992c3c1b5bd435f2ceed76b1f2ef2654f7b011"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "1ffc5b999244f116c1dab7f5af38a9135b1aee2020a80e2ec830e5bf06d68a03"
+hash = "9adccd5bc8b514189315cf9e3fb370b8d7e2810e2edd55370236228af601a423"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "7d1e2eacdb19d7e8f5fd7f30aa16972a54cb40657242d03e186b9cd5170f63b2"
+hash = "e7e8ac6ca68b03cef0cea95f653aa6a09fd6e37d002f8b83a11b4a3d63342db7"
 
 [[files]]
 file = "config/fancymenu/customization/animated_background.txt"
-hash = "ba96c5d3b2b1468aca3cb39949d32beabbbb22e4e083944e4b8ac99dd1e7290c"
+hash = "b64a2a54e9ee28506831f043a58f16173186859e1cecd634fe3c487e24b4a7df"
 
 [[files]]
 file = "config/fancymenu/customization/loading_screen_dark.txt"
@@ -504,11 +504,6 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
-metafile = true
-
-[[files]]
-file = "mods/mcpitanlibarch.pw.toml"
-hash = "51eba3ae0c0d623e7914d6d909e40f6224df7703c541eefdd1f003a4fc501f54"
 metafile = true
 
 [[files]]
