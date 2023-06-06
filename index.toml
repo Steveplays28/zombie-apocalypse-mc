@@ -98,7 +98,7 @@ hash = "f7983df1334177a37665da85befc83ce750d1639aa8bac4770ee0b631b6ef744"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "c8e310f0a0c99206b71ba9626d0fb3479ad263fec1aba9f8f7a26cdcc7131b55"
+hash = "55c3b3957bd010da7a13a70d8dc596e20dcd5a0f5595a2ab840832e4c5e7a1d2"
 
 [[files]]
 file = "config/physicsmod/physics_cloth_config.json"
@@ -477,12 +477,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "0ae0f0fdbb37a150696c3c6f5a7776029ed832da9e1820e504a8f3546cf1a396"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e0ffc486b8d9b9bcd9123b284f8795c0e671321f7de9461df04de9e4fcc443c8"
+hash = "68e797f5a5f2d3cc33802148bd4199bc846e6afa9bff3217b19d220ad7518499"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5b242270eda128c7eb2cdcc29d9f8fe24a997241ef19093a0e1e5112bc0dcabb"
+hash = "e34a6d645bcfcb5a677159ac959b19ef3fde39a066f7164b565f8877bc3de525"
 metafile = true
 
 [[files]]
@@ -621,12 +621,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
+hash = "8cacfddf1fba2b0254a13cd0c10c3ea06ca8bede720d728b1369f47bd91f7589"
 metafile = true
 
 [[files]]
 file = "mods/real-camera.pw.toml"
-hash = "1e29758b3e8144a0dcb23f6f0b2c4790f3c5f1491513513123363ea219ef7fec"
+hash = "8988983f3d8b31e3a0342a9d300e1c0c6f3ae1d9827d50282da50fb094a6390b"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "352d2dd8efb08f8a6213c295a10259de61b4536f2afb1fd985ffcea47a55ec8b"
+hash = "6696af9aaf787643fe5c258a3fa982c65e30bd1296aaf1be2218276a8f43fec3"
 metafile = true
 
 [[files]]
@@ -681,12 +681,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d71b9823fd415b464d20db7404dc834da53b7e253af8ea3ab5f287dab37f068e"
+hash = "1075cdd7397b22a34442c522d339666ff175fb983cb66eaadae37b5daa56e21c"
 metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "88cf3f040bae7f7cf9e87ffdfede2ac89f6b6b982514c9f690a621a3e58c93fa"
+hash = "dcdf9b9adc7bb2b4af3cf0b655264aeec0d18bd5f43b4f0f49b19ef0cf2b893e"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "2be50974c72386427a30f5a3d42d57f459a403a92f09fad74609e476f0f4b8a6"
+hash = "584001af298467915485335fb7c4a3ae53dc49766cfa9452acc45ac43c7cda0a"
 metafile = true
 
 [[files]]
@@ -776,17 +776,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "3fd9f7e41a7543c4a5c03f7a73ef2055a091ca35857d574c6d8e430d100b5518"
+hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
 metafile = true
 
 [[files]]
 file = "mods/waig.pw.toml"
 hash = "12bb8d75b4115641c0f541aa5355c50def8d6072f2d56d679979a52a521696a0"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
 metafile = true
 
 [[files]]
