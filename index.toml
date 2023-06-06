@@ -81,6 +81,10 @@ file = "config/mobfilter.yaml"
 hash = "1cc60d910c928e09fdc0ac94604df5ebed71611576b4cfa25d281a48cc85301f"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "9d20e98f7277715751a732784ffa3ee7c5faedabe8b6ed5b125f47762529244b"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "324d400586f0b699aff9200c4cd3d3c11243333f5a0d52e4db361b9857f264c1"
 
@@ -94,7 +98,7 @@ hash = "f7983df1334177a37665da85befc83ce750d1639aa8bac4770ee0b631b6ef744"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
-hash = "926dc840d1a7fb36cb376ab0f6ed4893236f8dc2c65ce7d34c61725f34c43af5"
+hash = "c8e310f0a0c99206b71ba9626d0fb3479ad263fec1aba9f8f7a26cdcc7131b55"
 
 [[files]]
 file = "config/physicsmod/physics_cloth_config.json"
@@ -228,6 +232,11 @@ hash = "5e7b6b781caaa75d7ac0c2465fc6789943c49a916f0d9e128f4d5ff53708f4a3"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "459a91f353fa1b654da830551656fd74e9904109a48308bc825fb1c3216c2200"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
@@ -338,6 +347,11 @@ hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
+metafile = true
+
+[[files]]
 file = "mods/fabric-enhancedmovement-1.0.5.jar"
 hash = "afa29d53ca86570ec2bc084517d2908b5851904f2ca8de9ec1043572152ab293"
 
@@ -358,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "75caa1e42abf75921eb341c42e5197165b81a4342620e732cd0c4f0239e5f331"
+hash = "8a2cbcce162a51f67cc58d221a2bc1f1ff28babbc567608f540fcafc2dc3dee6"
 metafile = true
 
 [[files]]
@@ -507,11 +521,6 @@ hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "859b1f9c9774c432724260e340d83299eed517753c14aec26bf520192909ede3"
 metafile = true
@@ -534,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/mobfilter.pw.toml"
 hash = "7619ac7ff97fed746f44c80fcd3c8f9ad73dc221b76f074fbbc7f4d9e2a5dfea"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2fa4cb8b325d16ad0df5d351f8d8f735f6b525c9b05871942a8a1eae3f3e2cdc"
 metafile = true
 
 [[files]]
@@ -648,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/resquake.pw.toml"
 hash = "c3ccaaf555aa8a2b75ff7d27b0e24fa66d7fd872b17005c6c775044c821ea6d8"
+metafile = true
+
+[[files]]
+file = "mods/seaborgium.pw.toml"
+hash = "a5d5916a9e3eabaa804b0a2e35505c8bb3ef32da8cf8e5967a964b6d33e586f6"
 metafile = true
 
 [[files]]
