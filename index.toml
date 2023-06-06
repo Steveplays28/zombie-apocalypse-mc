@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostbytes-maximum-mobility.pw.toml"
-hash = "236677abb5094e050deb6c618e48dc221f3489e35df979e83463d4a061cab3b4"
+hash = "f44a9df956f5baf82fb923f001866a91a8026ee42eccad437a65cc1d4e4f2ec6"
 metafile = true
 
 [[files]]

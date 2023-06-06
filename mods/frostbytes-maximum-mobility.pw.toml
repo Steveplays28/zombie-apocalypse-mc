@@ -1,6 +1,6 @@
 name = "Frostbyte's Maximum Mobility"
 filename = "mobility-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/gkX0YuZr/versions/6wKUNxZo/mobility-1.0.0.jar"
